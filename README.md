@@ -71,7 +71,6 @@
 | XP Digital Lab | XP Chat &#124; Digital & Tech 官方公告频道，用于各种重要资讯和活动发布 官方群组: 油管: b站： 私信请👉 | [@rocchl](https://t.me/rocchl) |
 | Yummy 😋 | 📰 本频道不定期推送科技数码类新资讯，欢迎关注！ ©️ 发布的内容不代表本频道立场，和你意见不一样的话欢迎在评论区留言表达，但请注意言辞，面斥不雅。 ‼️ 关联群组定期清理不活跃成员和僵尸号，误封请 。 🔗 博客: 💬 群组: 📬 投稿: 🪧 广告合作： . | [@godlynews1](https://t.me/godlynews1) |
 | zrj766的频道 | 🤝 特别感谢NodeSupport和YxVM 对本频道的赞助和支持。 🌏 个人小店： 😀 兴趣杂食向频道，有时候会当朋友圈用，不喜勿喷，友善交流； 🤖 主要内容：数码硬件，VPS/独服，蚊子腿毛，热点资讯，沙雕图等； ⛔️ 不接推广，转发商业内容仅为体验后推荐。 | [@zrj96](https://t.me/zrj96) |
-| ЭКОЦЕНТР | Программы и сервисы для экологического проектирования и отчётности 📝 🏠 💬 📗 | [@eco_c](https://t.me/eco_c) |
 | ⚡️ 7x24投资快讯 | 24 小时投资相关的快讯 | [@golden_wind_news](https://t.me/golden_wind_news) |
 | 【华尔街见闻】- 财经时讯 &#124; AI 实时互动 | 中国领先的金融信息平台，7×24 覆盖全球股市、外汇、债券、商品动态。 ✨ 频道特色 • 📊 AI 自动解读：每条新闻实时生成投资参考 • ❓ 智能问答：使用 /ask 命令深入了解任意资讯 • ⚡ 秒级推送：重要信息第一时间触达 专业 + 智能，让投资决策更高效。 请通过频道左下角的「Direct Message」联系管理 | [@financenewsdaily](https://t.me/financenewsdaily) |
 | 一个军盲 | 大多数时候只放本频道感兴趣的东西，转载新闻不代表频道对内容的完全赞同。 没有任何其他平台账号，Telegram 相似频道均不是本频道运营。 撕逼谩骂、极端言论将会被删除或封禁。 另一个频道 | [@junmang](https://t.me/junmang) |
@@ -117,7 +116,6 @@
 | 财联社VIP文章分享 | 财联社 VIP文章即时更新：盘中宝、风口研报、狙击龙虎榜、电报解读、财联社早知道、研选、公告早知道、九点特供： 频道始建于2022年2月28日 股票交流群组： 合作请联系 | [@clsvip](https://t.me/clsvip) |
 | 赛博安全威胁情报🥸 | 网安老兵新人皆宜关注的网络安全频道。 没有废话，佛系更新，不扰民。 他自己都不知道会有什么奇迹会在这里发生！ | [@cybersec_threat](https://t.me/cybersec_threat) |
 | 金十数据 闪电资讯 | 金十数据, 一手时政&财经&币圈 数据24H极速推送！中文时政财经圈顶级付费文章！关注频道，洞悉世界！ | [@jin10light](https://t.me/jin10light) |
-| 隐私中国 Dark Web Inform | Contact information: 关联词：隐私,交易,数据,翻墙,CVV,黑产,灰产,博彩,查询,查档,查开房,查同住,交易,数据,中文,TG,SSR,微信,支付宝,资源,科技,IT,黑客,户籍,定位,身份证,手机号,匿名,四件套 | [@cn_privacy](https://t.me/cn_privacy) |
 | 风向旗参考快讯 | 风闻奏事，遍查访知。提供互联网科技新闻快讯。发布VPS、网盘等有价值虚拟资产的新闻和交易信息。⚡️ 本频道引用的所有文章皆旨在拓宽信息视野，不代表本频道观点。本频道谢绝任何政治频道转发消息，请勿让我们的评论区变成一个火药桶。请以包容友好的方式交流。 🔍 博客版： 🏆 合作咨询 | [@xhqcankao](https://t.me/xhqcankao) |
 |  Apple Nuts | 🍎 一个特别的 Apple 频道 💡Let’s Think Different. 讨论组 | [@applenuts](https://t.me/applenuts) |
 | 💬 60秒早间阅读 | （暂无描述） | [@newspjapk](https://t.me/newspjapk) |
@@ -374,7 +372,7 @@
 | 读舍 FM | 享受阅读时光 🌍 官方网站： 👥 群组讨论：「读舍」 📻 播客：苹果播客｜小宇宙｜Google Podcast｜Spotify 搜索「读舍FM」 | [@bookcn](https://t.me/bookcn) |
 | 马列毛主义与革命左翼图书馆 🔑 入群审核 ⚠️ @maoistQAIIbot | 马列毛，共产主义，马克思，列宁，毛泽东，斯大林，鲁迅，全集，切格瓦拉，左派，苏联，社会主义，无产阶级，马克思主义，印共毛，恩格斯，毛主席，江青，星火燎原，燎原，燎原月刊， 🔑 入群审核 ⚠️ | [@taipingtianguo](https://t.me/taipingtianguo) |
 | 🅱 基督教神学图书馆 | 按照美国国会图书馆分类整理基督教图书做分享！ | [@koibooks](https://t.me/koibooks) |
-| 📖Telegram数字图书馆 | 电子书/免费/资源/书库/漫画/资料/文献 ——————————————— 管理员 | [@tg_book_data](https://t.me/tg_book_data) |
+| 📖Telegram数字图书馆 | 电子书/免费/资源/书库/漫画/资料/文献 | [@tg_book_data](https://t.me/tg_book_data) |
 | 📖电子书&#124;有声书&#124;杂志&#124;PDF资料 | 电子书/有声书/杂志/免费分享 【责任声明】 本频道分享的所有图书资料均收集于网络，无任何利益行为，如有侵犯作者及出版方权益，请联系本频道及时删除。 书籍讨论群 | [@ebookpdf_library](https://t.me/ebookpdf_library) |
 | 📖电子书图书馆 epub&#124;mobi&#124;pdf&#124;azw3&#124;txt 轻小说&#124;网文&#124;文学&#124;科学&#124;教材 | epub，mobi，pdf，txt多种格式的综合书籍资源分享下载频道 | [@epubtsg](https://t.me/epubtsg) |
 | 🔥🔥ZBook,&#124;电子书📚&#124; 小说&#124;漫画资源&#124;&#124;禁书分享 | 版权归原作者所有，如有侵权请告知删除 。若要转发频道资源请注明出处，🙏🙏谢谢大家 招商 解封 找书 任何想法和问题联系群 | [@ziyuanfeng59](https://t.me/ziyuanfeng59) |
@@ -466,7 +464,7 @@
 
 | 频道名 | 说明 | 链接 |
 |---|---|---|
-| ANIME Wallpaper | 壁纸 Wallpaper 每天更新一次 Update daily 其他频道 Other channels： 反馈 Feedback： 请直接评论 Comment directl... | [@acgwallpaper](https://t.me/acgwallpaper) |
+| ANIME Wallpaper | 壁纸 Wallpaper 每天更新一次 Update daily | [@acgwallpaper](https://t.me/acgwallpaper) |
 | (ゲームCG)一个兴趣使然的PC壁纸频道 | 本频道附属于 是一个SFW频道 主要发一些galgameCG里的一些我认为“好看”的可以拿来做壁纸的图片频道，附属交流 （网盘）CG包群组 所发图对应的完整CG包会发在这里，感谢您关注本频道 兴趣使然 Anime gif频道 | [@cgsfw](https://t.me/cgsfw) |
 | [Pixiv]wallpaper&#124; 高质量插画壁纸 | 一个致力于分享各种pixiv作品的频道~ ---------- 友情链接： 新的友链欢迎来添加！ ---------- 不定时分享各种壁纸少女作品，pixiv优秀插画，各种风格应有尽有！ pixiv分享频道，欢迎你的加入！ ---------- 群组小圈子 | [@pixivshare](https://t.me/pixivshare) |
 | ACG~青春动漫画廊 REBORN！二次元美壁纸、美图～ | 普通的美图存储、分享频道罢了，但色图哒咩(⌯︎¤̴̶̷̀ω¤̴̶̷́)✧︎ 置顶有总目录~ 有事请联系 或 的频道私信 防失联频道 | [@acg_arts](https://t.me/acg_arts) |
@@ -492,9 +490,9 @@
 | 少女实在是太美好了 | 关于发布内容审美说明 简单说就是<收藏级> 1.画质最少清晰级别以上 2.水印最好没有/如果有也最好不遮挡(中间水印肯定不行) 3.要么不露脸要么颜值还不错('神仙cos'我是理解不了) 4.骚可以是艺术,但艺术和美绝对不止是骚. 群组: 组群也只是放开一些限制 请勿发送太过的内容 组群很难管理 头疼 TG现在自带广告,很烦.请各位自己甄别 | [@tastegirl](https://t.me/tastegirl) |
 | 快乐星球 &#124; 妹子图 &#124; 收集器 | #美女 #妹子 #精选 #全网 #中文 快乐星球 联系我们 开眼精选 所有资源出自互联网收集整理，本频道不参与制作，如果侵犯了您的合法权益，请联系我们删除。 | [@botmzt](https://t.me/botmzt) |
 | 手机壁纸/美女壁纸/壁纸/头像/美女/男生头像/女生头像/背景图/锁屏壁纸 | 每日更新壁纸 头像 群聊 | [@sjmnbztx](https://t.me/sjmnbztx) |
-| 最美壁纸 » 每天一张精选壁纸 | feedId:61699763560816640+userId:58148178555204608 | [@zuimeibizhi](https://t.me/zuimeibizhi) |
+| 最美壁纸 » 每天一张精选壁纸 | (暂无) | [@zuimeibizhi](https://t.me/zuimeibizhi) |
 | 朱颜别镜 &#124; 妹子图 &#124; 美女图 | 全网美女,妹子图收藏 最是人间留不住,朱颜辞镜花辞树 美女 妹子 写真 汉服 美图 高清 少女 合作推广联系 频道不出，别被骗子骗 | [@meizitu3](https://t.me/meizitu3) |
-| 每日东方同人插画推荐 &#124; Daily Touhou Pics Recommendation | 东方插画限定 Touhou illustrations only Link : Yuri illustrations only channel ===Related info=== bot : related channel | [@dailytouhoudoujinpic](https://t.me/dailytouhoudoujinpic) |
+| 每日东方同人插画推荐 &#124; Daily Touhou Pics Recommendation | 东方插画限定 | [@dailytouhoudoujinpic](https://t.me/dailytouhoudoujinpic) |
 | 每日环球视野 | iDaily · 每日环球视野是一款高精度图片新闻 App。开发者是国内著名的 Clover 四叶新媒体团队。iDaily · 每日环球视野（以下均简称 iDaily）以其每日更新的高质量新闻、高精度图片收获了数百万用户的喜爱。 频道链接 | [@idaily_read](https://t.me/idaily_read) |
 | 汉服分享 | 汉服 古风 古装 频道 群组 | [@hanfufenxiang](https://t.me/hanfufenxiang) |
 | 白丝即正义 | 本频道会不定时推送一些绅士老爷们喜闻乐见的福利 闲聊＆报错＆申诉: 关联频道 | [@baisi](https://t.me/baisi) |
@@ -511,10 +509,8 @@
 | 颜值 美女 | 分享些美女 不定时更新 | [@yanzhizaici](https://t.me/yanzhizaici) |
 | 颜值即正义 | 颜值即正义 | [@yzjzy](https://t.me/yzjzy) |
 | 🍭高清壁纸 | 高清壁纸美女模特美图。 | [@jingxu6](https://t.me/jingxu6) |
-| 📱 iWallpaper &#124; Обои для смартфона | Обои для компьютера | [@iwallpaper](https://t.me/iwallpaper) |
 | 📸摄影 &#124; 写真集 | 🔍更多资源 | [@kodakontg](https://t.me/kodakontg) |
 | 🖤清雾扰山河🖤头像🤍壁纸🤍 | 🍀无论你在哪里，吹过我的风，都在替我拥抱你🍀 🌿柬埔寨交友群： 🌿原图获取： 🌿投稿/商务可接： 🌿投稿/商务可接 | [@touxiang888](https://t.me/touxiang888) |
-| 🖥 iWallpaperPC &#124; Обои для компьютера | Обои для телефона | [@iwallpaperpc](https://t.me/iwallpaperpc) |
 
 ## 萌宠分享
 
@@ -592,10 +588,8 @@
 |---|---|---|
 | Capoo Stickers | 高質素咖波貼圖 UNOFFICIAL, fan channel Only for personal, non-commercial use. 僅供個人、非商業使用。 Contact us: 相關頻道和群組推介（與本頻道一樣，均爲非官方）： 咖波家族 Capoo ( ): 群組，咖波粉絲聚集地 Capoo Subscriptions ( ): 頻道，訂閱官方/非官方咖波貼文 | [@capoo_stickers](https://t.me/capoo_stickers) |
 | Capoo Subscription | UNOFFICIAL FAN CHANNEL, powered by and | [@capoo_sub](https://t.me/capoo_sub) |
-| cat mood 🐾 | ❗Внимание ⚠️ На канале орудует шерстяная ОПГ Мемный канал По репостам | [@cat_kv](https://t.me/cat_kv) |
 | Emoji/表情/图标/贴纸 | #表情包 #头像 #图标 #Emoji #sicker #png #壁纸 #贴纸 #宝藏 #资源 #高清 #像素 #电报 #bot 反馈 | [@ehega](https://t.me/ehega) |
 | HiEmoji | / | [@hiemoji](https://t.me/hiemoji) |
-| IMG2D | • I'm if you want to support me: 🌚 🌝 ❤️ animated stickers * анимированные стикеры * برچسب متحرک * pegatina animada * アニメーションステッカー * adesivo animato * ملصق متحرك * 动画贴纸 * autocollant animé * 애니메이션 스티커 ❤️ ( ꈍᴗꈍ) | [@img2d](https://t.me/img2d) |
 | Stickers | Group👉 Feedback👉 Cute Stickers👉 | [@stickersey](https://t.me/stickersey) |
 | Stickers Telegram | About stickers with love ❤️ | [@tstickers](https://t.me/tstickers) |
 | 不正经的 贴纸收集频道 stickers | 频道主只是想收集贴纸方便自己找贴纸的(没想做大)。 同款好看的贴纸包(纯)，可以直接按频道格式发进群里 进群有text验证 如有侵权，联系@mycutcbot删除 | [@zigou23](https://t.me/zigou23) |
@@ -626,7 +620,7 @@
 | 尤物色色导航 | 收录全网精品色色频道/网站 搞颜色咱们是专业的 发现部分频道通过投稿来引流 此频道以后不再接受 | [@youwudaily](https://t.me/youwudaily) |
 | 电报指南 & 精品排行榜 | 🔬🔭**电报指南**🔭🔬—— 名称：电报指南&精品排行榜 链接： 介绍： 收集.整理.分类.发布各种电报链接 资源.福利.索引.分享各种实用工具 标签： #索引 #搜索 #导航 #互推 #精品 #电报 #收录 #新手 #帮助 #推荐 电报指南全球版： 反馈/投稿/交流 | [@tgtrillion](https://t.me/tgtrillion) |
 | 目录频道 | 系列频道 漫画书籍资源整合 普通休闲书籍资源 计算机与部分其他种类书籍资源 计算机类书籍 目录频道 | [@jumpto22222](https://t.me/jumpto22222) |
-| 链接收藏 | 链接收藏 网址导航 评论区规则，包含并不仅限 1、封禁【博彩/赌毒/宗教/政治/键政/黑产/灰产/违法色情/暴力】 2、删除+警告【Aff/隐私】 3、至于NSFW🔞，只允许发送链接，禁止贴图+媒体（删除+警告） 频道使用指南： 目录置顶： 下载链接频道 群组 仓库 频道主 邮箱 | [@ldlist](https://t.me/ldlist) |
+| 链接收藏 | 链接收藏 网址导航 | [@ldlist](https://t.me/ldlist) |
 | 频道藏馆 | 收藏 TG 频道、群组、机器人…… 群组 | [@channelhalls](https://t.me/channelhalls) |
 | 𝕎𝔼电报频道精选推荐 | Telegram 频道&群组精选收录 投稿/ | [@wechannels](https://t.me/wechannels) |
 
@@ -635,15 +629,14 @@
 | 频道名 | 说明 | 链接 |
 |---|---|---|
 | 亚马逊 Amazon 每日热销、降价榜 | 推送亚马逊的每日热销榜、降价榜，以及双11、黑五特价信息。 内容包括亚马逊美国、亚马逊日本、亚马逊英国、亚马逊德国等地区的自营产品 | [@amazonhotevery](https://t.me/amazonhotevery) |
-| 限時免費 LimitFree | 可依照以下 Hashtag 搜尋您要的系統喔! #iOS, #Mac, #Win, #Android, #Origin, #UPlay, #Steam #Rockstar #E... | [@limitfree](https://t.me/limitfree) |
-| 清风阁 - GV&#124;Gmail&#124;ChatGPT PLUS&#124;Telegram&#124;Apple ID&#124;成品账户&#124;代购 | 官网: 客服: Youtube 账户: 打赏我: TUZNCLe581jkDYsAoHY1uw8c5mNVofVwYT (USDT-TRC20) | [@owo_shop](https://t.me/owo_shop) |
+| 限時免費 LimitFree | 可依照以下 Hashtag 搜尋您要的系統喔!| [@limitfree](https://t.me/limitfree) |
 
 ## 破解软件
 
 | 频道名 | 说明 | 链接 |
 |---|---|---|
-| 小新の资源库&#124;免费vpn&#124;破解软件 | 🍿旨在分享全网优质资源,实用破解软件/白嫖vpn/实用教程/实用工具/开源项目/学习资料...每天更新,精彩不断,感谢您的订阅！ 💬 交流群组: 📬 投稿 | [@xiaoxinv](https://t.me/xiaoxinv) |
-| 懒人分享频道 白嫖机场推荐/免费机场/代理节点分享/福利分享/薅羊毛/资源发布/破解软件/音视频分享/吹水闲聊/翻墙/梯子/VPN | 素质白嫖，互相帮助，做白嫖人，不做伸手党！ 群组： 投稿/合作/互推： 油管： 退出频道永久封禁，慎行！ | [@lanren_6688](https://t.me/lanren_6688) |
+| 小新の资源库&#124;免费vpn&#124;破解软件 | 🍿旨在分享全网优质资源,实用破解软件/白嫖vpn/实用教程/实用工具/开源项目/学习资料...每天更新,精彩不断,感谢您的订阅！  | [@xiaoxinv](https://t.me/xiaoxinv) |
+| 懒人分享频道 白嫖机场推荐/免费机场/代理节点分享/福利分享/薅羊毛/资源发布/破解软件/音视频分享/吹水闲聊/翻墙/梯子/VPN | 素质白嫖，互相帮助，做白嫖人，不做伸手党！ | [@lanren_6688](https://t.me/lanren_6688) |
 | 秋月资源分享社-破解软件VPN | 秋月资源分享社是一个优质资源频道，分享优质软件，游戏辅助，破解VPN，绅士游戏，节点订阅等，让我们的生活更精彩！ 商务合作/ | [@qiuyuezt](https://t.me/qiuyuezt) |
 | 资源分享 - 软件&#124;网站&#124;工具&#124;破解 | 分享免费资源，实用软件、开源项目、网站工具。 📢 广告投放: 📮 投稿私信: 💬 交流 | [@lcgfx](https://t.me/lcgfx) |
 | 枫叶の破解软件频道 | （暂无描述） | [@afengye](https://t.me/afengye) |
@@ -680,5 +673,5 @@
 | 浮士德备份站 | （暂无描述） | [@faust_plan](https://t.me/faust_plan) |
 | 福利姬捕抓器 | 福利姬捕抓器 | [@fuliji_arrest](https://t.me/fuliji_arrest) |
 | 绅士仓库『NSFW』 | （暂无描述） | [@ssck666](https://t.me/ssck666) |
-| 足控天堂 | 我们不色情，我们致力于原创美腿丝袜，黑丝、肉丝、蕾丝、足控、高跟鞋、私房、空姐、制服诱惑等高清无码美女写真拍摄，我们不约炮只发福利美图等你关注哦。#肉丝 #美足 #玉足 #绝对领域 #丝足 #足控 #腿控 #灰丝 #美腿 #小姐姐 #裸足 #丝袜 #白丝 #黑丝 #美女 #福利 #老司机 #萝莉 #妹子 #校服 #私拍 #开车 #cosplay #萌妹 #资源 #丽柜 | [@sizukon](https://t.me/sizukon) |
+| 足控天堂 | 我们不色情，我们致力于原创美腿丝袜，黑丝、肉丝、蕾丝、足控、高跟鞋、私房、空姐、制服诱惑等高清无码美女写真拍摄，我们不约炮只发福利美图等你关注哦。| [@sizukon](https://t.me/sizukon) |
 | 🎖美女精选🎖 | （暂无描述） | [@beautygirls9527](https://t.me/beautygirls9527) |
