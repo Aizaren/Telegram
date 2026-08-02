@@ -22,7 +22,6 @@
 - [机场测试](#机场测试)
 - [表情贴纸](#表情贴纸)
 - [开发编程](#开发编程)
-- [导航索引](#导航索引)
 - [商品优惠](#商品优惠)
 - [破解软件](#破解软件)
 - [黄油瑟瑟](#黄油瑟瑟)
@@ -86,7 +85,6 @@
 | 小林家的托尔 | 非资讯向的个人自媒体，发布内容和更新频率全看心情。 整合: 本频道独立运营，不属于“For Works”系列频道。 联系: 原创内容遵循CC BY-SA-NC协议，请勿将本频道主体用于任何二次创作和演绎等行为。 被删评论请好好想想发了什么。 附属群： 附属群（NSFW/键政类话题） | [@tooruchannews](https://t.me/tooruchannews) |
 | 少数派sspai | 少数派 ( ) 官方频道。Weibo: @少数派sspai，公众号：sspaime | [@sspai](https://t.me/sspai) |
 | 工劳快讯：关注当代打工人 | 我们发布最新中国工人、劳动权益相关的新闻/社交媒体资讯。欢迎自助提交和备份你认为有价值的工人资讯。 🌟“工劳快讯”提交帖子必读指南： 🌟工劳搜索： 🌟自助提交机器人： 🌟订阅Newsletter： 频道广告是TG硬塞的！请无视 | [@laborpower](https://t.me/laborpower) |
-| 我的一张大字报 | 追踪点评最新中国官场的人事变动，分享个人的见解与思考。 频道公开讨论群组申请链接： 投稿机器人： 本频道的原创内容均以CC BY-NC-SA 4.0协议发布，转载必须遵循该协议内容。 请使用 #观点与点评 和 #事实核查 Hashtags 查看本频道原创内容。 | [@mybigcharacterposter](https://t.me/mybigcharacterposter) |
 | 新闻实验室 | 新闻实验室的频道 >>> 🎁会员计划： >>> ▶️YouTube | [@newslab2020](https://t.me/newslab2020) |
 | 校长读报 | 多读书 多看报 感谢关注 感谢赞赏 | [@xiaozhangdubao](https://t.me/xiaozhangdubao) |
 | 每天60秒读懂世界-已复活🎉 | （暂无描述） | [@dailynewszh](https://t.me/dailynewszh) |
@@ -114,7 +112,6 @@
 | 财经慢报 | 附属群组 财经慢报是 TG 简中最大的泛财经类资讯新闻频道，实时覆盖大宗外汇全球股票区块链等市场，内容真实中立客观。 部分内容按原文摘自墙内财经媒体并附来源，不代表本频道立场，请客观谨慎看待相关内容，谨防钓鱼误导。部分刷屏内容为现场零延迟文字转录，推送频繁敬请谅解。 | [@financial_express](https://t.me/financial_express) |
 | 财经新闻🧿虚拟币新闻-区块链中文消息 @new123 | 财经新闻🧿虚拟币新闻-区块链消息 #财经新闻 #新闻频道 #区块链新闻 #在线新闻 #头条新闻 #每日新闻 #华人新闻 #每天新闻 #国内新闻 #菲律宾新闻 #泰国新闻 #大码新闻 #柬埔寨新闻 #迪拜新闻 #缅甸新闻 #东南亚新闻 新闻频道易记ID | [@new123](https://t.me/new123) |
 | 财联社VIP文章分享 | 财联社 VIP文章即时更新：盘中宝、风口研报、狙击龙虎榜、电报解读、财联社早知道、研选、公告早知道、九点特供： 频道始建于2022年2月28日 股票交流群组： 合作请联系 | [@clsvip](https://t.me/clsvip) |
-| 赛博安全威胁情报🥸 | 网安老兵新人皆宜关注的网络安全频道。 没有废话，佛系更新，不扰民。 他自己都不知道会有什么奇迹会在这里发生！ | [@cybersec_threat](https://t.me/cybersec_threat) |
 | 金十数据 闪电资讯 | 金十数据, 一手时政&财经&币圈 数据24H极速推送！中文时政财经圈顶级付费文章！关注频道，洞悉世界！ | [@jin10light](https://t.me/jin10light) |
 | 风向旗参考快讯 | 风闻奏事，遍查访知。提供互联网科技新闻快讯。发布VPS、网盘等有价值虚拟资产的新闻和交易信息。⚡️ 本频道引用的所有文章皆旨在拓宽信息视野，不代表本频道观点。本频道谢绝任何政治频道转发消息，请勿让我们的评论区变成一个火药桶。请以包容友好的方式交流。 🔍 博客版： 🏆 合作咨询 | [@xhqcankao](https://t.me/xhqcankao) |
 |  Apple Nuts | 🍎 一个特别的 Apple 频道 💡Let’s Think Different. 讨论组 | [@applenuts](https://t.me/applenuts) |
@@ -147,7 +144,7 @@
 | Emby影视资源发布 | 普拉斯影业资源发布频道 | [@plus_movie_best](https://t.me/plus_movie_best) |
 | Google Drive 资源 &#124; New @gdurl | 很高兴你来到新的 频道。这里有各种 Google Drive 资源，包括大电影，小电影，电子书，无损音乐等。 Here is channel for Google Drive free resource -- 若要分享资源到频道，请发给 。 若要转发本频道内资源到别处， 请注明出处。 -- ✅ 本频道常用分类标签： #小电影 #动漫 #音乐 #游戏 #教学视频 #受欢迎资源 #热门资源 #公告 | [@gdsharing](https://t.me/gdsharing) |
 | LIHAICloud | 云盘归档，资源为收集，如侵犯你的权利联系BOT ，我们第一时间处理 | [@lihaicloud](https://t.me/lihaicloud) |
-| Nebula-Media（星云） | 🌟星云官方Channel： 🤖星云通行证管理中心： 🙎‍♀️‍星云客服服务： 🎁星星商店： 🔎星云官方Wiki： 🏛官方社群守则： 👏请与我们共同努力，让这个社群变得更加美好！ | [@nebulamediauser](https://t.me/nebulamediauser) |
+| Nebula-Media（星云） |👏请与我们共同努力，让这个社群变得更加美好！ | [@nebulamediauser](https://t.me/nebulamediauser) |
 | NEP.Anime &#124; 动画仓库 | 涅普涅普的动画仓库。(简/繁/日) 频道机器人会抓取各大BT站的新番更新并自动上传发布。（原档，无二压） *上传的动画可以在Tg中直接播放，也可以下载后播放 *服务器抽风的时候可能会出现更新延迟，如有问题请大力戳 索引: 动画搜索&新番推送: 建议&报错&吐槽: 公告&索引&讨论群 | [@animenep](https://t.me/animenep) |
 | Odyssey+ | 食用指南： 资源推送： 频道助力 | [@odysseyplus](https://t.me/odysseyplus) |
 | Pop Music History Trip | 挖掘重要又有趣的流行音乐史，注重系统性也强调个人体验～ 现在按艺人推荐模式 过去的按年代推荐可通过pinned message跳至2021查看～ 之前的介绍：我喜爱音乐的系统性推荐~ 存档在此~ 有播放列表合集！ | [@popmusichistory](https://t.me/popmusichistory) |
@@ -301,17 +298,17 @@
 | 互联网从业者充电站 | 互联网从业者专属 内容多为技术、产品、设计、运营等不同话题内容； 目标人群为程序员、设计师、产品经理、运营管理等不同职能。 投稿/合作： 内容来源网络 | [@https1024](https://t.me/https1024) |
 | 人人分享站｜B站课程分享 | 每日分享各类课程、影视、软件工具以及羊毛，等千奇百怪有趣的东西。 频道链接 | [@hezuclub](https://t.me/hezuclub) |
 | 你不知道的冷知识 | 冷知识分享 有趣的、无趣的、有用的、没用的知识 未来引入其他分类知识 投稿/合作： 内容来源网络 | [@knowledge1024](https://t.me/knowledge1024) |
-| 全网课程&#124;网课&#124;教程&#124;网盘&#124;资料 | 全网各大付费平台课程，得到课程#樊登读书#知乎#喜马拉雅#网易云课堂#千聊#荔枝微课#抖音课程#网赚课程#亲子课程等5万多g，每日更新，定期分享免费课程 | [@zhishiff](https://t.me/zhishiff) |
+| 全网课程 | 全网各大付费平台课程，得到课程#樊登读书#知乎#喜马拉雅#网易云课堂#千聊#荔枝微课#抖音课程#网赚课程#亲子课程等5万多g，每日更新，定期分享免费课程 | [@zhishiff](https://t.me/zhishiff) |
 | 加密货币知识库 | 分享加密货币相关的网站、软件资源以及加密货币相关的知识与资讯。 欢迎加入群组 讨论 商务合作联系 | [@jmhbzsk](https://t.me/jmhbzsk) |
 | 國家地理雜誌 中文版 | Hi 探險家，和國家地理一起探索世界吧！ 國家地理雜誌官網 Facebook Instagram Youtube | [@natgeomedia](https://t.me/natgeomedia) |
-| 心理自助与互助 | 非专业频道，请自行辨别信息。 如果您有自杀，自残的想法，请联系自杀干预热线。 北京自杀研究防治中心专线: 800-810-1117 / 010-82951332 上海生命线: 400-821-1215 上海市精神卫生中心: 021-12320-5 / 021-64387250 广州市心理危机干预中心: 020-81899120 | [@ptsd_help](https://t.me/ptsd_help) |
+| 心理自助与互助 | 非专业频道，请自行辨别信息。| [@ptsd_help](https://t.me/ptsd_help) |
 | 恋爱把妹有声馆 | 专注分享 恋爱教学 两性知识 的音频文件 聊天： pua 恋爱 视频版本 | [@liangxingxueyuan](https://t.me/liangxingxueyuan) |
 | 日语学习 | 关键词: 日语 日剧 学习 日文 日本 语言 资源 频道合集 消息搜索 投稿请至 | [@jp_study](https://t.me/jp_study) |
 | 日语学习资源 | 本群是日语学习资源群 网页版: 想进行日语学习无关的话题（政治宗教色情除外）交流的 请移步日语学习闲聊群 日语学习交流请移步日本語研修群 | [@learningjapaneseresource](https://t.me/learningjapaneseresource) |
 | 有意思的分享 | 分享各种东西，优惠、互联网、技术、程序、游戏。 | [@ziyouzengzhang](https://t.me/ziyouzengzhang) |
 | 有用经验计划 | 有用经验分享，打破信息壁垒。 📮投稿/ | [@howlab](https://t.me/howlab) |
 | 烫手热知识 | 1.一个认知忽高忽低之人，每天的工作就是和即将XXXX之人打交道。偶尔吼吼，偶尔骂两句，更多的是观察他们的人生经历，默默的看着他。 2.本频道大部分观点来源于网络，极少数观点是我自己的。 3.频道发布的内容如果有错别字、引用错误、甚至于出现逻辑错误，请直接点出来，我会及时改正的。 （本频道频道主和管理员不会私信你，注意防骗，虽然没有管理员，但是以后可能会有） | [@hotmessage](https://t.me/hotmessage) |
-| 知识付费 &#124; 得到 &#124; 樊登读书 | 知识付费分享站！🚀 | [@dedaozs](https://t.me/dedaozs) |
+| 知识付费 樊登读书 | 知识付费分享站！🚀 | [@dedaozs](https://t.me/dedaozs) |
 | 程序员资源分享频道 | 程序员资源分享频道 | [@gotoshare](https://t.me/gotoshare) |
 | 暗流涌动 黑客渗透资源hub | 免杀 钓鱼 情报 红队 | [@BlackHatCN](https://t.me/BlackHatCN) |
 | 网络安全笔记 | 从零开始、持续积累、开放共享、共同成长（网络安全、AI方向） | [@tsecrecord](https://t.me/tsecrecord) |
@@ -610,20 +607,6 @@
 | 大虾的编程资源库/码农/程序员资源 | 简介：大虾本职工作为程序员，本频道持续分享大虾的编程资源库/码农/程序员资源。 有啥问题可以群里问，求书的可以代找，因为时间有限，每天仅前3个。 加群、业务对接 | [@programmingsrchub](https://t.me/programmingsrchub) |
 | 开发者日报 | 一个勤劳的机器人，只爬取热门，优质，阅读性强的内容。懒懒的主人创造了我，欢迎关注我🤖。我的 Twitter 账号是 CNDevDaily。官网 | [@cndevdaily](https://t.me/cndevdaily) |
 | 程序员之家 | 关键词：程序员 coding programing 项目 project github 频道合集 消息搜索 | [@useless_project_ideas](https://t.me/useless_project_ideas) |
-
-## 导航索引
-
-| 频道名 | 说明 | 链接 |
-|---|---|---|
-| Daily Channels | Best Telegram Channels. We introduce the best telegram channels DAILY! 😍 ⚠️ Conduct your own research before trusting the channels or groups. Advertise 👇 | [@dailychannels](https://t.me/dailychannels) |
-| Naruto 频道推荐 👍👍👍 | 进来先看顶置 简介：致力于分享各种各样的中文频道，也欢迎大家向小伙伴们推荐本频道。 投稿/互推/ | [@achansp](https://t.me/achansp) |
-| Telegram 分组共享 | 分享共享 分组/文件夹 投稿请使用：私聊直通消息 | [@addlist_x](https://t.me/addlist_x) |
-| 尤物色色导航 | 收录全网精品色色频道/网站 搞颜色咱们是专业的 发现部分频道通过投稿来引流 此频道以后不再接受 | [@youwudaily](https://t.me/youwudaily) |
-| 电报指南 & 精品排行榜 | 🔬🔭**电报指南**🔭🔬—— 名称：电报指南&精品排行榜 链接： 介绍： 收集.整理.分类.发布各种电报链接 资源.福利.索引.分享各种实用工具 标签： #索引 #搜索 #导航 #互推 #精品 #电报 #收录 #新手 #帮助 #推荐 电报指南全球版： 反馈/投稿/交流 | [@tgtrillion](https://t.me/tgtrillion) |
-| 目录频道 | 系列频道 漫画书籍资源整合 普通休闲书籍资源 计算机与部分其他种类书籍资源 计算机类书籍 目录频道 | [@jumpto22222](https://t.me/jumpto22222) |
-| 链接收藏 | 链接收藏 网址导航 | [@ldlist](https://t.me/ldlist) |
-| 频道藏馆 | 收藏 TG 频道、群组、机器人…… 群组 | [@channelhalls](https://t.me/channelhalls) |
-| 𝕎𝔼电报频道精选推荐 | Telegram 频道&群组精选收录 投稿/ | [@wechannels](https://t.me/wechannels) |
 
 ## 商品优惠
 
