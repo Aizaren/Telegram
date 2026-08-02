@@ -294,7 +294,6 @@
 |---|---|---|
 | 写作交流 | 关键词：阅读 写作 交流 如果给你寄一本书， 我不会寄给你诗歌 ， 我要给你一本关于植物，关于庄稼的 ， 告诉你稻子和稗子的区别 ， 告诉你一棵稗子提心吊胆的春天。 欢迎大家向... | [@writing_discuss](https://t.me/writing_discuss) |
 | 豆瓣知乎简书微信公众号 | 阅读，爱上书。 豆瓣 知乎 简书 左岸读书 腾讯大家 百度知道 我的小书屋 壹心理 十点读书 界面 三联生活周刊 南都周刊 连岳 韩寒一个 腾讯今日话题 新世相、其他微信公众号... | [@dbzhjs](https://t.me/dbzhjs) |
-| 编程随想推荐书籍（非官方）#声援编程随想 | 惊闻随想君被捕，作为深爱他的文章的众读者之一，感到无比震惊和惋惜。本频道会加紧整理他的Resillio Sync内容，并做好备份。 编程随想的灯不会灭，每个人都是自由火炬的传递... | [@programthinkbooks](https://t.me/programthinkbooks) |
 | Ac-Wiki &#124; 真·青年大学习 | 学习·成长 高等教育学社基础知识开源建设工程 属于大学生群体的真·青年大学习 Discord： 项目主页： QQ 群：860675581 如被误封，请私聊 | [@acwiki](https://t.me/acwiki) |
 | theBlock | 分享一些以 Notion 为主的信息/技巧/用法 🧱 💛 Love from Notion fans, , & | [@theblockclub](https://t.me/theblockclub) |
 | 不良林 | 科学上网，资源分享 联系不良林(唯一渠道) | [@buliang00](https://t.me/buliang00) |
@@ -314,7 +313,9 @@
 | 烫手热知识 | 1.一个认知忽高忽低之人，每天的工作就是和即将XXXX之人打交道。偶尔吼吼，偶尔骂两句，更多的是观察他们的人生经历，默默的看着他。 2.本频道大部分观点来源于网络，极少数观点是我自己的。 3.频道发布的内容如果有错别字、引用错误、甚至于出现逻辑错误，请直接点出来，我会及时改正的。 （本频道频道主和管理员不会私信你，注意防骗，虽然没有管理员，但是以后可能会有） | [@hotmessage](https://t.me/hotmessage) |
 | 知识付费 &#124; 得到 &#124; 樊登读书 | 知识付费分享站！🚀 | [@dedaozs](https://t.me/dedaozs) |
 | 程序员资源分享频道 | 程序员资源分享频道 | [@gotoshare](https://t.me/gotoshare) |
+| 暗流涌动 黑客渗透资源hub | 免杀 钓鱼 情报 红队 | [@BlackHatCN](https://t.me/BlackHatCN) |
 | 网络安全笔记 | 从零开始、持续积累、开放共享、共同成长（网络安全、AI方向） | [@tsecrecord](https://t.me/tsecrecord) |
+| 黑洞资源笔记 | 黑洞资源笔记 | [@piracy6](https://t.me/piracy6) |
 | 英文学习桌 | 学习英语，了解世界。分享学习资料，原版书籍，报纸新闻。 关键词：英文 学习 英语 语言 书籍 读书 资源 频道合集 消息搜索 推特翻译 | [@english_learning_discuss](https://t.me/english_learning_discuss) |
 
 ## 搞笑趣味
@@ -332,6 +333,7 @@
 | 橘橘橘子汁 & 🍊 | 发一些好玩的 现在成 mb 的私人频道了 Links | [@microblock_pub](https://t.me/microblock_pub) |
 | 每天趣事 | 本频道内容： 多样沙雕冷笑话，津津乐道稀奇事。 记录事实另眼看，不屑一顾高级黑。 电报中文包 （侠客） 商务中心 投稿进入 传媒部 | [@meitian](https://t.me/meitian) |
 | 每日沙雕墙 | 恕我直言，在座的各位都是沙雕 💬 吹水/申诉群: 🤖 投稿机器人: 🔇 未通过审核的稿件: 本频道仅供娱乐，不代表任何观点或立场，请勿对号入座；部分内容不保证真实性 本频道消息均以 CC BY-NC-SA 4.0 协议发布，转载或分享请遵循该协议内容，转发请保留来源 如您本人希望删除消息内的转发源 ID，请在 群组内 @ 或 PM 管理员 😉 Have fun! | [@woshadiao](https://t.me/woshadiao) |
+| 心惊报 | 心惊报 | [@xinjingdaily](https://t.me/xinjingdaily) |
 | 煎蛋无聊图 | 自动抓取煎蛋首页推荐无聊图及其评论 数据来源: 更新间隔: 一小时 任何疑问请联系: 不接广告！ | [@jandan_pic](https://t.me/jandan_pic) |
 | 美图与沙雕 | 始于2019-11-25 死于2025-04-15 旧频道 闲聊&投稿群 新 旧 ❗️❗️❗️有验证❗️❗️❗️ ❗️评论禁血腥暴力和政治❗️ 遇到提示:"抱歉,此会话已无法访问"私聊管理解除 或者无法进入闲聊群的问题 请进群反馈 | [@acg_meme](https://t.me/acg_meme) |
 | 赛博忏悔室 | 记下过往，也记下此刻。 但请注意，能够救赎自己的，唯有自己。 投稿请使用标点符号。 投稿请使用 一个赛博忏悔室，支持匿名 ，内容需要经过初步审查。 若有疑惑，请查看置顶公告或查询 #公告 标签 为发癫而发癫请移步里区，这里也收容其他不恰当的内容 | [@cyber_confessional](https://t.me/cyber_confessional) |
@@ -530,7 +532,6 @@
 
 | 频道名 | 说明 | 链接 |
 |---|---|---|
-| Galgame 频道 | Galgame 资讯和推荐 你→ →马猴烧酒 友链： 文章： 捐赠： 有关捐赠事宜请联系群主。 | [@galgamer_channel](https://t.me/galgamer_channel) |
 | PC游戏搬运工 | 搬运各种PC游戏，有时也会搬运其他平台上的游戏 不提供修改器 群组： 如果你觉得本频道不错，请推荐给他人 | [@youxibanyunenen](https://t.me/youxibanyunenen) |
 | 单机游戏资源 | 下载资源版权归作者所有;本站所有资源均来源于网络,仅供学习使用,请支持正版 | [@wygjmeng](https://t.me/wygjmeng) |
 | 追尾游戏热点 | 能聊与玩游戏真是太好了！ 发一发喜欢得消息，游戏为主，其余分享！ 也要有时间发空，远望宇宙。 发与分享喜欢，知与游玩游戏。 聊与分享折扣，追尾游戏热点。 + 群组 + 主频道 + 群误封与反馈 + UNO 游戏 | [@vwyxrd](https://t.me/vwyxrd) |
@@ -658,6 +659,7 @@
 
 | 频道名 | 说明 | 链接 |
 |---|---|---|
+| Galgame 频道 | Galgame 资讯和推荐 | [@galgamer_channel](https://t.me/galgamer_channel) |
 | MissAV Daily | 无 | [@missav_daily](https://t.me/missav_daily) |
 | PIXIV站每日r18图片 Top50搬运 | （暂无描述） | [@pixiv_top50_r18](https://t.me/pixiv_top50_r18) |
 | 【BGG】AV精彩时刻 🌸 |这是一个个人频道，会随缘发看过的av。 防失联投稿 / 报错 / 反馈 / 广告 / 合作互推 / 赞助支持| [@bgg_jav](https://t.me/bgg_jav) |
