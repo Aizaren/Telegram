@@ -2,6 +2,8 @@
 
 > Telegram优质资源汇总，在Telegram总有你感兴趣的内容。
 
+商务合作请联系 [@swhz66_bot](https://t.me/swhz66_bot) 
+
 ## 分类索引
 
 - [资讯新闻](#资讯新闻)
