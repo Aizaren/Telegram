@@ -1,6 +1,6 @@
 # Telegram 资源屋
 
-> Telegram优质资源汇总，在Telegram总有你感兴趣的内容。
+> Telegram优质资源汇总，在Telegram总有你感兴趣的内容。定期更新，点个star不迷路~
 
 商务合作请联系 [@swhz66_bot](https://t.me/swhz66_bot) 
 
