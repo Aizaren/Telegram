@@ -294,7 +294,7 @@
 | 豆瓣知乎简书微信公众号 | 阅读，爱上书。 豆瓣 知乎 简书 左岸读书 腾讯大家 百度知道 我的小书屋 壹心理 十点读书 界面 三联生活周刊 南都周刊 连岳 韩寒一个 腾讯今日话题 新世相、其他微信公众号... | [@dbzhjs](https://t.me/dbzhjs) |
 | Ac-Wiki &#124; 真·青年大学习 | 学习·成长 高等教育学社基础知识开源建设工程 属于大学生群体的真·青年大学习 Discord： 项目主页： QQ 群：860675581 如被误封，请私聊 | [@acwiki](https://t.me/acwiki) |
 | theBlock | 分享一些以 Notion 为主的信息/技巧/用法 🧱 💛 Love from Notion fans, , & | [@theblockclub](https://t.me/theblockclub) |
-| 不良林 | 科学上网，资源分享 联系不良林(唯一渠道) | [@buliang00](https://t.me/buliang00) |
+| 不良林 | 科学上网，资源分享| [@buliang00](https://t.me/buliang00) |
 | 两性知识 | 高质量两性知识分享，助力你收获美好的两性关系。 | [@liangxing365](https://t.me/liangxing365) |
 | 互联网从业者充电站 | 互联网从业者专属 内容多为技术、产品、设计、运营等不同话题内容； 目标人群为程序员、设计师、产品经理、运营管理等不同职能。 投稿/合作： 内容来源网络 | [@https1024](https://t.me/https1024) |
 | 人人分享站｜B站课程分享 | 每日分享各类课程、影视、软件工具以及羊毛，等千奇百怪有趣的东西。 频道链接 | [@hezuclub](https://t.me/hezuclub) |
@@ -489,7 +489,6 @@
 | 审美TV | 审美鉴赏，理性思辨。 入群交流 内容投稿 解封联系 | [@aestheticctv](https://t.me/aestheticctv) |
 | 少女一顾倾人城 | Share the beauty daily I heard that those who yearn for beauty will live a long life 🤪 All images are in original quality Welcome to Follow Retweet Comment Contribute 每日分享美好 听说向往美好的都能长命百岁哟🤪 所有图片均为原图画质 欢迎关注 转发 评论 供稿 SFW | [@love_nice_girl](https://t.me/love_nice_girl) |
 | 少女实在是太美好了 | 关于发布内容审美说明 简单说就是<收藏级> 1.画质最少清晰级别以上 2.水印最好没有/如果有也最好不遮挡(中间水印肯定不行) 3.要么不露脸要么颜值还不错('神仙cos'我是理解不了) 4.骚可以是艺术,但艺术和美绝对不止是骚. 群组: 组群也只是放开一些限制 请勿发送太过的内容 组群很难管理 头疼 TG现在自带广告,很烦.请各位自己甄别 | [@tastegirl](https://t.me/tastegirl) |
-| 快乐星球 &#124; 妹子图 &#124; 收集器 | #美女 #妹子 #精选 #全网 #中文 快乐星球 联系我们 开眼精选 所有资源出自互联网收集整理，本频道不参与制作，如果侵犯了您的合法权益，请联系我们删除。 | [@botmzt](https://t.me/botmzt) |
 | 手机壁纸/美女壁纸/壁纸/头像/美女/男生头像/女生头像/背景图/锁屏壁纸 | 每日更新壁纸 头像 群聊 | [@sjmnbztx](https://t.me/sjmnbztx) |
 | 最美壁纸 » 每天一张精选壁纸 | (暂无) | [@zuimeibizhi](https://t.me/zuimeibizhi) |
 | 朱颜别镜 &#124; 妹子图 &#124; 美女图 | 全网美女,妹子图收藏 最是人间留不住,朱颜辞镜花辞树 美女 妹子 写真 汉服 美图 高清 少女 合作推广联系 频道不出，别被骗子骗 | [@meizitu3](https://t.me/meizitu3) |
