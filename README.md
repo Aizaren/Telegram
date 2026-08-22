@@ -37,7 +37,6 @@
 | 层叠 - The Cascading | 主要话题大概是开源业界新闻。 所有以 #today 标签的内容均为本台编辑的个人意见，可能可以代表本台观点。... | [@outvivid](https://t.me/outvivid) |
 | Readhub | 每天三分钟的科技新闻聚合阅读，内容主要包括商业动态、科技资讯，每天早 9 点推送当日早报。 → Buy Ads: → More | [@readhub_cn](https://t.me/readhub_cn) |
 | 财经快讯 | 最新最全全球财经资讯24小时不间断直播，A股美股操盘必备，帮您第一时间掌握消息面的因素，把握大局、运筹帷幄、决胜千里 | [@fnnew](https://t.me/fnnew) |
-| 日本 共同网 朝日新闻 日经中文网 | 知乎日报 纽约时报 BBC中文 路透中文 美国之音 FT中文网 双语新闻 早起读书 书友群 | [@jp_rss](https://t.me/jp_rss) |
 | 韩国 中央日报 朝鲜日报 | 知乎日报 纽约时报 BBC中文 路透中文 美国之音 FT中文网 双语新闻 早起读书 书友群 | [@korea_rss](https://t.me/korea_rss) |
 | RSS 频道收集 | 收集推送 RSS 的频道，把 TG 变成 RSS 阅读器！ 欢迎分享 RSS 源、频道！ 联系频道管理员： 获取即时预览可发送原文链接给： 或 轻松搭建自己的 RSS 机器人：... | [@rss_channels](https://t.me/rss_channels) |
 | Duyao SpeedTest 科技生活 资讯转发 | 不定期发布或转发一些资讯 测速不代表推荐，经过长期测速，多次测速，可以慢慢筛选出一些更好的，以及淘汰掉一些总是不太好的… 由于大陆地区网络环境十分复杂，不同地区，... | [@duyaoss](https://t.me/duyaoss) |
@@ -97,7 +96,6 @@
 | 科技&趣闻&杂记 | 分享有价值、有趣的信息！ 你也可以来 ，包括但不限于科技新闻、知识、影视娱乐资讯.... 投稿 群组 合作联络 | [@kejiqu](https://t.me/kejiqu) |
 | 科技圈的日常 | 科技圈内的大事小事 吹水群 | [@misakatech](https://t.me/misakatech) |
 | 科技圈🎗在花频道📮 | 【莫谈国事】 大家多多分享 • 禁止推广/黑产/刷屏/色情/ NSFW • 禁止黄赌毒/宗教/政治/键政 • 禁止撕逼/人身攻击/阴阳怪气 备用频道： 侵权/解封/帮助: 广告 | [@testflightcn](https://t.me/testflightcn) |
-| 科技爱好者周刊 | 记录每周值得分享的科技内容，周五发布。本频道有ruanyf授权，see weekly/issues/885 | [@scitech_fans](https://t.me/scitech_fans) |
 | 突发新闻 | 突发新闻推送服务（简体中文） 非严肃版Channel： 深度报道 | [@breakingnews_t](https://t.me/breakingnews_t) |
 | 端传媒 RSS | 【关于】 RSS 地址： 【更多】 RSS 频道收集，探索 telegram 与 RSS： 联系频道管理员 | [@theinitium_rss](https://t.me/theinitium_rss) |
 | 竹新社 | 7×24不定时编译国内外媒体的即时新闻报道。 查阅新闻资料，前往竹新资料室： 如有任何问题，联系竹新社小编： 注：本频道原创新闻按照CC BY 4.0协议发布。 | [@tnews365](https://t.me/tnews365) |
