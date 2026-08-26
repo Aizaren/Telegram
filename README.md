@@ -53,7 +53,6 @@
 | ChatGPT 精选 | ChatGPT 精选资源 | [@awesomechatgpt](https://t.me/awesomechatgpt) |
 | cnBeta.COM中文业界资讯站 - 总频道(精选新闻) | 中文业界资讯站是一个提供IT相关新闻资讯、技术文章和评论的观点的中文网站，报导立场公正中立，网友讨论气氛浓厚，在业界拥有独特的影响力。本频道仅推送精选内容。 精选频道 软硬件技术 互动与娱乐 商业与产业 热点与趣闻 繁中频道 支持本频道 | [@cnbeta_com](https://t.me/cnbeta_com) |
 | iBeta 尝鲜派｜公告栏 | iBeta 尝鲜派官方频道 官网 | [@ibeta_channel](https://t.me/ibeta_channel) |
-| LetITFly News | 的频道，主题包括但不限于 Android、Windows、Web、消费电子相关，吹水为主。 愿各位始终享有足够的信息渠道，在心情好有意愿的时候能够做想做的事情。 本频道的原创信息均采用 CC BY-NC-SA 4.0 知识共享协议 发布；本频道所有 Forward 消息均按原消息的许可合理转载。 友情链接： (archived) | [@letitflyw](https://t.me/letitflyw) |
 | LoopDNS资讯播报 | LoopDNS 综合资讯---简洁，及时，快速，准确 频道: 电报讨论组: 撤稿流程 | [@dnspodt](https://t.me/dnspodt) |
 | MJJ出征 | 寸草不生 | [@wearemjj](https://t.me/wearemjj) |
 | Newlearnerの自留地 | 🆕 不定期推送 IT 相关资讯，欢迎关注！ 👥 博客群&投稿群&交流群: 📩 投稿请私信 🔍 频道内容关键词索引 Bot: * 未经授权或标注来源，不得转载本频道内容 | [@newlearnerchannel](https://t.me/newlearnerchannel) |
@@ -82,7 +81,6 @@
 | 后续APP —— 关注、追踪热点新闻 | 「后续」是一个持续关注、追踪热点事件的新闻工具，我们关注那些引起人们讨论、思考的热点新闻，改变了或者应该改变社会的事件。并将一直跟踪下去，观察并记录其中人物的命运，人们的思考，社会的改变又或是规则的坚固。 于2022年8月下线 12月再次上线 于2023年再次停更 友链 | [@houxuapp](https://t.me/houxuapp) |
 | 大河马中文财经新闻分享 | 转载财新、FT中文网、WSJ中文网等等 | [@chinesecaixin](https://t.me/chinesecaixin) |
 | 小声逼逼 | 🔍 挖宝Appletv/iOS/Mac神软｜🎁 定期抽奖｜📰 独家资讯｜📺 Emby影音指南 「小声逼逼」频道，让你的Apple设备更好玩，数字生活更有趣！ | [@me888888888888](https://t.me/me888888888888) |
-| 小林家的托尔 | 非资讯向的个人自媒体，发布内容和更新频率全看心情。 整合: 本频道独立运营，不属于“For Works”系列频道。 联系: 原创内容遵循CC BY-SA-NC协议，请勿将本频道主体用于任何二次创作和演绎等行为。 被删评论请好好想想发了什么。 附属群： 附属群（NSFW/键政类话题） | [@tooruchannews](https://t.me/tooruchannews) |
 | 少数派sspai | 少数派 ( ) 官方频道。Weibo: @少数派sspai，公众号：sspaime | [@sspai](https://t.me/sspai) |
 | 工劳快讯：关注当代打工人 | 我们发布最新中国工人、劳动权益相关的新闻/社交媒体资讯。欢迎自助提交和备份你认为有价值的工人资讯。 🌟“工劳快讯”提交帖子必读指南： 🌟工劳搜索： 🌟自助提交机器人： 🌟订阅Newsletter： 频道广告是TG硬塞的！请无视 | [@laborpower](https://t.me/laborpower) |
 | 新闻实验室 | 新闻实验室的频道 >>> 🎁会员计划： >>> ▶️YouTube | [@newslab2020](https://t.me/newslab2020) |
@@ -105,11 +103,8 @@
 | 维生素E&#124;经济学哲学知识分享播客 | 精神分析漫步学派（The casualistic school of psychoanalysis） 生命需要维生素e！ 维生素e是一款完全免费的知识分享播客计划，我们分享构成这个世界，解释这个世界，创造这个世界的基础知识，并在基础上试图分析终极问题。 我们相信真理的普遍性，相信人和人之间可以相互理解。相信我们最终，可以通达真理。 收听方式：各大播客平台搜索 维生素E | [@vitamineepodcast](https://t.me/vitamineepodcast) |
 | 联合早报 即时报道 | （暂无描述） | [@zaobao_news](https://t.me/zaobao_news) |
 | 肃反委员会 | 新华社分社。 | [@katyushaunion](https://t.me/katyushaunion) |
-| 荔枝木 | 这个世界很复杂。 我们尝试去与复杂性共存，是为了更加美好的明天。 由于水平有限，难免有错误和疏漏，请读者进行批评指正。 购物链接为 Aff Link，各位的购买将会用于继续支持本频道创作。 本频道不是专业新闻媒体，无法保证所有消息的真实性和时效性，各位看官看个乐就行，所有消息一律当可信度存疑处理，感谢 。 | [@lychee_wood](https://t.me/lychee_wood) |
 | 蓝点网订阅频道 | （暂无描述） | [@landiansub](https://t.me/landiansub) |
 | 蛋卷俱乐部 | 蛋卷俱乐部发布频道 | [@danjuanclub](https://t.me/danjuanclub) |
-| 财经慢报 | 附属群组 财经慢报是 TG 简中最大的泛财经类资讯新闻频道，实时覆盖大宗外汇全球股票区块链等市场，内容真实中立客观。 部分内容按原文摘自墙内财经媒体并附来源，不代表本频道立场，请客观谨慎看待相关内容，谨防钓鱼误导。部分刷屏内容为现场零延迟文字转录，推送频繁敬请谅解。 | [@financial_express](https://t.me/financial_express) |
-| 财经新闻🧿虚拟币新闻-区块链中文消息 @new123 | 财经新闻🧿虚拟币新闻-区块链消息 #财经新闻 #新闻频道 #区块链新闻 #在线新闻 #头条新闻 #每日新闻 #华人新闻 #每天新闻 #国内新闻 #菲律宾新闻 #泰国新闻 #大码新闻 #柬埔寨新闻 #迪拜新闻 #缅甸新闻 #东南亚新闻 新闻频道易记ID | [@new123](https://t.me/new123) |
 | 财联社VIP文章分享 | 财联社 VIP文章即时更新：盘中宝、风口研报、狙击龙虎榜、电报解读、财联社早知道、研选、公告早知道、九点特供： 频道始建于2022年2月28日 股票交流群组： 合作请联系 | [@clsvip](https://t.me/clsvip) |
 | 金十数据 闪电资讯 | 金十数据, 一手时政&财经&币圈 数据24H极速推送！中文时政财经圈顶级付费文章！关注频道，洞悉世界！ | [@jin10light](https://t.me/jin10light) |
 | 风向旗参考快讯 | 风闻奏事，遍查访知。提供互联网科技新闻快讯。发布VPS、网盘等有价值虚拟资产的新闻和交易信息。⚡️ 本频道引用的所有文章皆旨在拓宽信息视野，不代表本频道观点。本频道谢绝任何政治频道转发消息，请勿让我们的评论区变成一个火药桶。请以包容友好的方式交流。 🔍 博客版： 🏆 合作咨询 | [@xhqcankao](https://t.me/xhqcankao) |
@@ -120,7 +115,6 @@
 
 | 频道名 | 说明 | 链接 |
 |---|---|---|
-| Anime Cute Theme | Only For Android🐻 🍭Stickers Check Pinned Messages For Kpop Theme👉 | [@animecuteth](https://t.me/animecuteth) |
 | Telegram APKs for Android | Official channel for Telegram Android APKs. You can also download them here | [@tandroidapk](https://t.me/tandroidapk) |
 | Telegram Info 中文 | 这是 的中文镜像。 讨论聊天: Beta 频道: 其他语言: 与我们交谈: DM | [@tginfocn](https://t.me/tginfocn) |
 | Telegram Tips | Telegram stands for freedom and privacy and has many easy to use features. | [@telegramtips](https://t.me/telegramtips) |
@@ -616,7 +610,6 @@
 
 | 频道名 | 说明 | 链接 |
 |---|---|---|
-| 小新の资源库&#124;免费vpn&#124;破解软件 | 🍿旨在分享全网优质资源,实用破解软件/白嫖vpn/实用教程/实用工具/开源项目/学习资料...每天更新,精彩不断,感谢您的订阅！  | [@xiaoxinv](https://t.me/xiaoxinv) |
 | 懒人分享频道 白嫖机场推荐/免费机场/代理节点分享/福利分享/薅羊毛/资源发布/破解软件/音视频分享/吹水闲聊/翻墙/梯子/VPN | 素质白嫖，互相帮助，做白嫖人，不做伸手党！ | [@lanren_6688](https://t.me/lanren_6688) |
 | 秋月资源分享社-破解软件VPN | 秋月资源分享社是一个优质资源频道，分享优质软件，游戏辅助，破解VPN，绅士游戏，节点订阅等，让我们的生活更精彩！ 商务合作/ | [@qiuyuezt](https://t.me/qiuyuezt) |
 | 资源分享 - 软件&#124;网站&#124;工具&#124;破解 | 分享免费资源，实用软件、开源项目、网站工具。 📢 广告投放: 📮 投稿私信: 💬 交流 | [@lcgfx](https://t.me/lcgfx) |
@@ -630,10 +623,8 @@
 | 安卓精选 &#124; 破解软件 | 专注分享 电报破解版 &#124; Plus Messenger 破解版 以及其他精选的破解软件 广告投放 | [@android_mod_featured](https://t.me/android_mod_featured) |
 | 无极分享社–破解软件 | 商务广告联系 永久分享白嫖，实用与加速器，各种杂类软件，白嫖分享各种软件。黑料八封 地址发布页① 无极中文索引: 无极交流吧 无极资源存放处 巨魔至尊版频道 | [@ddddffxxr](https://t.me/ddddffxxr) |
 | 电脑软件破解资源💻 | 电脑软件破解资源 | [@fun_exe](https://t.me/fun_exe) |
-| 破解软件VPN中文🚀 | 破解软件VPN中文 | [@fun_apk](https://t.me/fun_apk) |
 | 破解软件中文频道 🅥 | 分享各类安卓去广告 &#124;解锁 &#124;绿化版 &#124;软件 &#124;游戏、老司机福利、XP模块、Root工具、辅助插件… 导航: 群组: 索引 | [@pjapk](https://t.me/pjapk) |
 | 电脑单机游戏破解/Steam/CODEX/RUNE/每日游戏更新 | 各种单机破解游戏分享频道。 游戏交流群 | [@steampj](https://t.me/steampj) |
-| 破解VPN机场软件⚡️ | 破解VPN机场软件 | [@fun_vpn](https://t.me/fun_vpn) |
 
 ## 黄油瑟瑟
 
