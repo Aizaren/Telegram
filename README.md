@@ -79,7 +79,6 @@
 | 加美财经 | 全球政经商业报道、科技与财富深度分析 | [@causmoney](https://t.me/causmoney) |
 | 十三月评论 | 现代历史、政治经济学与社运观察 | [@elevemberreview](https://t.me/elevemberreview) |
 | 后续 APP | 持续追踪与记录重大社会热点事件进展 | [@houxuapp](https://t.me/houxuapp) |
-| 大河马中文财经 | 精选财新、FT、WSJ 主流财经媒体深度报道 | [@chinesecaixin](https://t.me/chinesecaixin) |
 | 小声逼逼 | Apple 设备玩机技巧、优质软件与影音指南 | [@me888888888888](https://t.me/me888888888888) |
 | 少数派 sspai | 少数派官方频道，高效工作与数字生活指南 | [@sspai](https://t.me/sspai) |
 | 工劳快讯 | 劳动权益新闻与工人资讯动态追踪 | [@laborpower](https://t.me/laborpower) |
@@ -592,7 +591,6 @@
 | mini 图标计划 | 网络调试与规则软件适用的图标库与样式项目 | [@orzmini](https://t.me/orzmini) |
 | Arch Linux 中文 | Arch Linux 官方新闻翻译、踩坑预警与打包记录 | [@archlinuxcn](https://t.me/archlinuxcn) |
 | Android Weekly Update | 深入剖析 Android 行业生态与系统演进的每周专栏 | [@update4weekly](https://t.me/update4weekly) |
-| 信息安全技术 | 网络攻防实战、漏洞预警与信息安全技术分享 | [@tg_internetsecurity](https://t.me/tg_internetsecurity) |
 | MATLAB TIPS | MATLAB 实用脚本、常用函数与科研编程技巧 | [@matlab_tips](https://t.me/matlab_tips) |
 | Linux 中国 | Linux 中国官方频道，开源生态资讯与运维技术 | [@linuxdotcn](https://t.me/linuxdotcn) |
 | 大虾编程资源库 | 程序员编程书籍、经典实战教程与开发工具 | [@programmingsrchub](https://t.me/programmingsrchub) |
