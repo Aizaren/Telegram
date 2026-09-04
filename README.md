@@ -37,7 +37,6 @@
 | 层叠 (The Cascading) | 开源业界动态与编辑科技杂谈 | [@outvivid](https://t.me/outvivid) |
 | Readhub | 每日精选商业动态与科技早报聚合 | [@readhub_cn](https://t.me/readhub_cn) |
 | 财经快讯 | 全球财经资讯与A股美股盘面消息直播 | [@fnnew](https://t.me/fnnew) |
-| 韩国主要媒体早报 | 聚合韩国中央日报与朝鲜日报中文资讯 | [@korea_rss](https://t.me/korea_rss) |
 | RSS 频道收集 | 精选 Telegram 优质 RSS 订阅源与频道 | [@rss_channels](https://t.me/rss_channels) |
 | Duyao SpeedTest 资讯 | 网络测速、科技生活与网络资讯转发 | [@duyaoss](https://t.me/duyaoss) |
 | 中国地震速报 | 中国地震台与 USGS ≥4.5 级地震近实时播报 | [@dizhen](https://t.me/dizhen) |
