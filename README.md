@@ -134,7 +134,7 @@
 | B站充电视频分享 | B站专属充电视频与优质创作者内容备份 | [@bilisvip2](https://t.me/bilisvip2) |
 | Emby 影视资源发布 | 普拉斯影业 Emby 影视资源与剧集更新 | [@plus_movie_best](https://t.me/plus_movie_best) |
 | Google Drive 资源 | Google Drive 高清电影、动漫、电子书合集 | [@gdsharing](https://t.me/gdsharing) |
-| LIHAICloud 云盘归档 | 各大网盘影视、动漫与音乐资源归档 | [@lihaicloud](https://t.me/lihaicloud) |
+| LIHAICloud 云盘归档 | 各大网盘影视、动漫与音乐资源 | [@lihaicloud](https://t.me/lihaicloud) |
 | Nebula-Media (星云) | 高清影视媒体库与影视流媒体交流 | [@nebulamediauser](https://t.me/nebulamediauser) |
 | NEP.Anime 动画仓库 | 各大 BT 站新番动漫自动抓取与原档发布 | [@animenep](https://t.me/animenep) |
 | Odyssey+ | 高清影视流媒体资源推送与播放指南 | [@odysseyplus](https://t.me/odysseyplus) |
