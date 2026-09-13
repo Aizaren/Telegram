@@ -39,7 +39,6 @@
 | 财经快讯 | 全球财经资讯与A股美股盘面消息直播 | [@fnnew](https://t.me/fnnew) |
 | RSS 频道收集 | 精选 Telegram 优质 RSS 订阅源与频道 | [@rss_channels](https://t.me/rss_channels) |
 | Duyao SpeedTest 资讯 | 网络测速、科技生活与网络资讯转发 | [@duyaoss](https://t.me/duyaoss) |
-| 中国地震速报 | 中国地震台与 USGS ≥4.5 级地震近实时播报 | [@dizhen](https://t.me/dizhen) |
 | AI Copilot | 非营利 AI 行业资讯与动态追踪 | [@ai_copilot_channel](https://t.me/ai_copilot_channel) |
 | AI 中文社区 | 人工智能、ChatGPT 与前沿模型讨论资讯 | [@lpttech](https://t.me/lpttech) |
 | AI 探索指南 | AIGC 工具、开源项目与行业动态分享 | [@aigc1024](https://t.me/aigc1024) |
