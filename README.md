@@ -33,7 +33,6 @@
 | 频道名 | 说明 | 链接 |
 |---|---|---|
 | zaobao.sg 早报 | 联合早报官方新闻与天下事资讯 | [@zaobaosg](https://t.me/zaobaosg) |
-| 知乎日报 (实时推送) | 聚合推送知乎日报及主流中文媒体新闻 | [@zhihuribao_rss](https://t.me/zhihuribao_rss) |
 | 层叠 (The Cascading) | 开源业界动态与编辑科技杂谈 | [@outvivid](https://t.me/outvivid) |
 | Readhub | 每日精选商业动态与科技早报聚合 | [@readhub_cn](https://t.me/readhub_cn) |
 | 财经快讯 | 全球财经资讯与A股美股盘面消息直播 | [@fnnew](https://t.me/fnnew) |
@@ -45,7 +44,6 @@
 | Alien 外星人 | 财经观察、时政分析与人文杂谈 | [@steamvents](https://t.me/steamvents) |
 | APPDO 的互联网记忆 | 互联网热点记忆与科技资讯聚合 | [@appdopic](https://t.me/appdopic) |
 | AppPie | Apple 生态动态与高品质应用推荐 | [@apppie](https://t.me/apppie) |
-| BBC 中文 (实时推送) | BBC 中文网全天候新闻与深度报道 | [@bbczhongwen_rss](https://t.me/bbczhongwen_rss) |
 | beng！ | 科技资讯、数码动态与实用玩机技巧 | [@mdmbeng](https://t.me/mdmbeng) |
 | AI 新闻聚合 | 主流 AI 服务状态通知与全球 AI 行业资讯 | [@ai_news_cn](https://t.me/ai_news_cn) |
 | ChatGPT 精选 | 精选 ChatGPT 相关优质资源与使用技巧 | [@awesomechatgpt](https://t.me/awesomechatgpt) |
@@ -133,7 +131,7 @@
 | B站充电视频分享 | B站专属充电视频与优质创作者内容备份 | [@bilisvip2](https://t.me/bilisvip2) |
 | Emby 影视资源发布 | 普拉斯影业 Emby 影视资源与剧集更新 | [@plus_movie_best](https://t.me/plus_movie_best) |
 | Google Drive 资源 | Google Drive 高清电影、动漫、电子书合集 | [@gdsharing](https://t.me/gdsharing) |
-| LIHAICloud 云盘归档 | 各大网盘影视、动漫与音乐资源 | [@lihaicloud](https://t.me/lihaicloud) |
+| LIHAICloud 云盘归档 | 各大网盘影视、动漫与音乐资源归档 | [@lihaicloud](https://t.me/lihaicloud) |
 | Nebula-Media (星云) | 高清影视媒体库与影视流媒体交流 | [@nebulamediauser](https://t.me/nebulamediauser) |
 | NEP.Anime 动画仓库 | 各大 BT 站新番动漫自动抓取与原档发布 | [@animenep](https://t.me/animenep) |
 | Odyssey+ | 高清影视流媒体资源推送与播放指南 | [@odysseyplus](https://t.me/odysseyplus) |
@@ -352,7 +350,6 @@
 | 数字图书馆卡 | 全球公开数字图书馆借阅指南与电子资源 | [@elibrarycard](https://t.me/elibrarycard) |
 | 方舟图书馆 | 综合性公开电子书资源与学术资料整理 | [@libraryforalls](https://t.me/libraryforalls) |
 | 桔梗书屋 | 精选优质 PDF 电子书与文学历史经典读物 | [@jgbook](https://t.me/jgbook) |
-| 玄学之巅 | 传统玄学古籍、易经哲学与研习笔记分享 | [@xuanxue88624](https://t.me/xuanxue88624) |
 | 电子书与有声书 | 精选电子书、有声听书与期刊杂志资源汇总 | [@sharebooks4you](https://t.me/sharebooks4you) |
 | 考公考研自习室 | 公务员与研究生考试备考资料与网盘资源 | [@wpzyk](https://t.me/wpzyk) |
 | 英语双语书分享 | 精选全球热门英文原著中英双语对照电子书 | [@bilingualbook](https://t.me/bilingualbook) |
