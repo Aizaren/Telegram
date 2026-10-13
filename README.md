@@ -542,7 +542,6 @@
 | Clash 爱好者 | Clash 客户端使用技巧与代理配置探讨 | [@clashios](https://t.me/clashios) |
 | Project X 官方频道 | Xray-core / V2Ray 协议核心官方开发动态 | [@projectxtls](https://t.me/projectxtls) |
 | SCP 每日免费节点 | 每日更新免费公共代理节点与网络资讯 | [@sharecentrepro](https://t.me/sharecentrepro) |
-| TG 高速代理 | Telegram MTProto 直连代理与网络加速工具 | [@qiuyue2](https://t.me/qiuyue2) |
 | 不著名测评 | 客观全面的网络机场节点测速与横向评测报告 | [@jctest6666](https://t.me/jctest6666) |
 | 免费节点频道 | 公开免费代理节点、VPN 与网络测试工具整理 | [@mfjdpd](https://t.me/mfjdpd) |
 | 冬瓜滴小社 | 极客技术折腾、网络测试与日常交流 | [@ltscxk](https://t.me/ltscxk) |
