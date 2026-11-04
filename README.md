@@ -211,6 +211,7 @@
 | 顶级开源项目分享 | 精选跨领域顶尖开源项目与技术深度解析 | [@top_opensource_project](https://t.me/top_opensource_project) |
 | 飞鱼资源分享 | 浏览器扩展、脚本工具、效率软件与开源项目 | [@feiyu123](https://t.me/feiyu123) |
 | HW 资源分享 | 苹果与安卓应用、规则脚本及玩机资源 | [@helloworld_1024](https://t.me/helloworld_1024) |
+| 折腾搞机频道 | 全球玩卡避坑，探索跨境金融与数字游民。 | [@tossichannel](https://t.me/tossichannel) |
 
 ## iOS资源
 
